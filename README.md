@@ -26,7 +26,7 @@ As técnicas utilizadas foram:
 To clone the repository to your local machine, open your terminal and run the following command:
 
 ```bash
-git clone https://github.com/Caio-Lott/Trabalho-Imagens-Medicas.git](https://github.com/camp944/Trabalho-IC.git
+git clone https://github.com/camp944/Trabalho-IC.git
 ```
 ### Navigate to the project directory
 
